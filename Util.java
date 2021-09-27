@@ -1,5 +1,5 @@
 public class Util {
 	public static String helloWorld() {
-		return "Hello World!!!";
+		return "Hello World!";
 	}
 }
